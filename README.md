@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I.m Poojitha Devireddy!👋
+highly motivated Electronics and communication engineering(ECE) candidate with a strong foundation in circuit designing, testing and electronic basics.
+## Featured projects
 
-<!--
-**Poojitha-Devireddy/Poojitha-Devireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ##[Automatic alcohol sensing and fire detection engine locking system]
+     *Deve;oped a smart vehicle safety system utilizing the "mq3 and fire sensors"to track alcohol levels and temperature.
+     *Features an automated engine ignition cutoff mechanism when thresholds are breached.
+     
+     ##[Door open alarm system]
+      *Constructed a security application using "IR transmitter and IR receiver pair" to monitor entry points and trigger a buzzer indicator.
 
-Here are some ideas to get you started:
+    ##[Automated streetlights using LDR]
+     *Built an energy-efficient dark-detector circuit leveraging a "Light dependet resistor(LDR) and a BC-547 NPN Transistor" to handle autonomous switching.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
