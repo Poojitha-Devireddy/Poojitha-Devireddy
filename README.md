@@ -1,5 +1,5 @@
 ## Hi there, I'm Poojitha Devireddy!👋
-highly motivated Electronics and communication engineering(ECE) candidate with a strong foundation in circuit designing, testing and electronic basics.
+Highly motivated Electronics and communication engineering(ECE) candidate with a strong foundation in circuit designing, testing and electronic basics.
 ## Featured projects
 
     ##[Automatic alcohol sensing and fire detection engine locking system]
